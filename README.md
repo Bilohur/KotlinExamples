@@ -1,1 +1,1 @@
-Design of MacOS calculator on Android
+calculator - design of MacOS calculator on Android
