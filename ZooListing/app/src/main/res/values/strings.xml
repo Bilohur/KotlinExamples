@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ZooListing</string>
+    <string name="title_activity_animal_info">AnimalInfo</string>
+</resources>
